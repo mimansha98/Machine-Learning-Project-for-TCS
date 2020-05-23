@@ -11,6 +11,5 @@ Investment Bankers . CA's . Hedge Fund / Portfolio Managers . Forex traders . Co
 
 Edit the solution jupyter notebooks and add your code for the queries in the respective modules or uplaod your notebook for that module.
 
-# Note: Only .ipynb files are supported.Other modules will be uploaded after I get the solutions for the current modules.  
-# Disclaimer before contributing:   
-Only significant contributions to this project would be accepted.  
+# Note: Only .ipynb files are supported.  
+
